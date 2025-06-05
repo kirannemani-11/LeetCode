@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirannemani-11/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirannemani-11/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
