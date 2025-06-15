@@ -15,6 +15,4 @@ class Solution:
                 ns = s.replace(val, '0')
                 mi = int(ns)
                 break
-        print(ma)
-        print(mi)
         return ma - mi
