@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
 ## Counting
@@ -126,5 +128,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
