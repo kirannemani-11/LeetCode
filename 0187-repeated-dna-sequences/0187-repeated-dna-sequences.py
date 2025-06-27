@@ -3,8 +3,9 @@ class Solution:
         seen = set()
         ans = set()
         for i in range(0,len(s)-9):
-            if s[i:i+10] not in seen:
-                seen.add(s[i:i+10])
+            v = s[i:i+10] 
+            if v not in seen:
+                seen.add(v)
             else:
-                ans.add(s[i:i+10])
+                ans.add(v)
         return list(ans)
