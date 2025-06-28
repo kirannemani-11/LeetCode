@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kirannemani-11/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/kirannemani-11/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kirannemani-11/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kirannemani-11/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kirannemani-11/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kirannemani-11/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kirannemani-11/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kirannemani-11/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kirannemani-11/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kirannemani-11/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kirannemani-11/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Quickselect
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kirannemani-11/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting
 |  |
 | ------- |
