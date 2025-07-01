@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirannemani-11/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kirannemani-11/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kirannemani-11/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/0049-group-anagrams) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/kirannemani-11/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
