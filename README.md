@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/kirannemani-11/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
 | ------- |
