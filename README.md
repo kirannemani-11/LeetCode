@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kirannemani-11/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
