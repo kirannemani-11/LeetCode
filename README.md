@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
+| [1250-longest-common-subsequence](https://github.com/kirannemani-11/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
+| [1250-longest-common-subsequence](https://github.com/kirannemani-11/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/kirannemani-11/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
