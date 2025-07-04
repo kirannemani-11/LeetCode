@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kirannemani-11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/kirannemani-11/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kirannemani-11/LeetCode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kirannemani-11/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kirannemani-11/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
