@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirannemani-11/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kirannemani-11/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kirannemani-11/LeetCode/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kirannemani-11/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
