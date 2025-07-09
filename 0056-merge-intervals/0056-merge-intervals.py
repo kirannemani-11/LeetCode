@@ -11,12 +11,8 @@ class Solution:
                 r.append([m1,m2])
                 m1 = x
                 m2 = y
-            elif y < m2:
-                if i == len(intervals) - 1:
-                    r.append([m1,m2])
-                continue
             else:
-                m2 = y
+                m2 = max(m2,y)
             if i == len(intervals) - 1:
                 r.append([m1,m2])
         return r
