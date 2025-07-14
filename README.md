@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kirannemani-11/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirannemani-11/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kirannemani-11/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kirannemani-11/LeetCode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kirannemani-11/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirannemani-11/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kirannemani-11/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kirannemani-11/LeetCode/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kirannemani-11/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kirannemani-11/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kirannemani-11/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
