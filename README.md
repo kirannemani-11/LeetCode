@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
+| [0967-minimum-falling-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kirannemani-11/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kirannemani-11/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirannemani-11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kirannemani-11/LeetCode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/kirannemani-11/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kirannemani-11/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
