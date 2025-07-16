@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
 | [0967-minimum-falling-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/kirannemani-11/LeetCode/tree/master/1036-rotting-oranges) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kirannemani-11/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kirannemani-11/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/kirannemani-11/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/kirannemani-11/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1036-rotting-oranges](https://github.com/kirannemani-11/LeetCode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/kirannemani-11/LeetCode/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
