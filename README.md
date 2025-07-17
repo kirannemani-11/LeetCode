@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/kirannemani-11/LeetCode/tree/master/0621-task-scheduler) |
+| [0907-koko-eating-bananas](https://github.com/kirannemani-11/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/kirannemani-11/LeetCode/tree/master/1036-rotting-oranges) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0907-koko-eating-bananas](https://github.com/kirannemani-11/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kirannemani-11/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/kirannemani-11/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Backtracking
