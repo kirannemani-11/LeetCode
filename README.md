@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0778-reorganize-string](https://github.com/kirannemani-11/LeetCode/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/kirannemani-11/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/kirannemani-11/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3396-valid-word](https://github.com/kirannemani-11/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/kirannemani-11/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
