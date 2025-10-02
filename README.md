@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kirannemani-11/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kirannemani-11/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kirannemani-11/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3336-water-bottles-ii](https://github.com/kirannemani-11/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3336-water-bottles-ii](https://github.com/kirannemani-11/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
