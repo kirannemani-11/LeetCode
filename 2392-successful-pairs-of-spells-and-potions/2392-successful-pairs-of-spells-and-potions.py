@@ -12,7 +12,7 @@ class Solution:
                 while low <= high:
                     mid = (low + high) // 2
                     if s * potions[mid] >= success:
-                        pairs = max(pairs, len(potions) - mid)
+                        pairs = len(potions) - mid
                         high = mid - 1
                     else:
                         low = mid + 1 
