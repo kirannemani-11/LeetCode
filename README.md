@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kirannemani-11/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kirannemani-11/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kirannemani-11/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/kirannemani-11/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kirannemani-11/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kirannemani-11/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kirannemani-11/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kirannemani-11/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kirannemani-11/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/kirannemani-11/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/kirannemani-11/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/kirannemani-11/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kirannemani-11/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kirannemani-11/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/kirannemani-11/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kirannemani-11/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kirannemani-11/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirannemani-11/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/kirannemani-11/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
 | ------- |
