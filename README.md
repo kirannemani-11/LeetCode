@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kirannemani-11/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kirannemani-11/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kirannemani-11/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kirannemani-11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kirannemani-11/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kirannemani-11/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/kirannemani-11/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kirannemani-11/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kirannemani-11/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kirannemani-11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/kirannemani-11/LeetCode/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kirannemani-11/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kirannemani-11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
 | ------- |
