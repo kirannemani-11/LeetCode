@@ -12,7 +12,6 @@ class Solution:
                 curr = prefix[j] - prefix[i-1]
             else:
                 curr = prefix[j]
-            print(curr)
             while curr >= target:
                 m = min(m, j-i+1)
                 i += 1
