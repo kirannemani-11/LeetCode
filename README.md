@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kirannemani-11/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kirannemani-11/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirannemani-11/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/kirannemani-11/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kirannemani-11/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/0049-group-anagrams) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kirannemani-11/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kirannemani-11/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirannemani-11/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/kirannemani-11/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kirannemani-11/LeetCode/tree/master/0075-sort-colors) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kirannemani-11/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Tree
