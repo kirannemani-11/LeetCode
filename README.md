@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/kirannemani-11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/kirannemani-11/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/kirannemani-11/LeetCode/tree/master/1036-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/kirannemani-11/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kirannemani-11/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kirannemani-11/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kirannemani-11/LeetCode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
+| [1219-path-with-maximum-gold](https://github.com/kirannemani-11/LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/kirannemani-11/LeetCode/tree/master/1036-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/kirannemani-11/LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Math
 |  |
 | ------- |
