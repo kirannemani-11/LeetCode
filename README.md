@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kirannemani-11/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/kirannemani-11/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kirannemani-11/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirannemani-11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kirannemani-11/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/kirannemani-11/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kirannemani-11/LeetCode/tree/master/0070-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/kirannemani-11/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/kirannemani-11/LeetCode/tree/master/0900-reordered-power-of-2) |
