@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kirannemani-11/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kirannemani-11/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kirannemani-11/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kirannemani-11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirannemani-11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kirannemani-11/LeetCode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/kirannemani-11/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/kirannemani-11/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [1219-path-with-maximum-gold](https://github.com/kirannemani-11/LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kirannemani-11/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/kirannemani-11/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kirannemani-11/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/kirannemani-11/LeetCode/tree/master/0542-01-matrix) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kirannemani-11/LeetCode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/kirannemani-11/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirannemani-11/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kirannemani-11/LeetCode/tree/master/0200-number-of-islands) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirannemani-11/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kirannemani-11/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kirannemani-11/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kirannemani-11/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kirannemani-11/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0678-valid-parenthesis-string](https://github.com/kirannemani-11/LeetCode/tree/master/0678-valid-parenthesis-string) |
