@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/kirannemani-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/kirannemani-11/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kirannemani-11/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kirannemani-11/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
